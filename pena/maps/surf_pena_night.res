@@ -1,0 +1,11 @@
+gfx/env/52h03bk.tga
+gfx/env/52h03dn.tga
+gfx/env/52h03ft.tga
+gfx/env/52h03lf.tga
+gfx/env/52h03rt.tga
+gfx/env/52h03up.tga
+models/surf_pena_night/bush2.mdl
+models/surf_pena_night/nz_plant.mdl
+models/surf_pena_night/tree3.mdl
+models/surf_pena_night/vines1.mdl
+sound/surf_pena_night/waterfall.wav
